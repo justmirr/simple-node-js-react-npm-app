@@ -7,4 +7,4 @@ pipeline {
             }
         }
     }
-}https://github.com/justmirr/simple-node-js-react-npm-app.git
+}
